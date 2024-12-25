@@ -1,6 +1,6 @@
 # 4knives: A Simple Python Game 
 
-Welcome to 4knives, a rough and simple game created using python. This is one of the games I used to play with my high school friends, but in college, I don't get much chance to meet them. This README provides a comprehensive overview of the project, including its features, usage, architecture, development process, references, and enhancements. 
+Welcome to 4knives, a rough and simple game created using python. The purpose of designing this program is partly to practice on my own, and partly because after starting college, I have much less time to reunite with my high school friends, so this serves as a way to reminisce about those times. This README provides a comprehensive overview of the project, including its features, usage, architecture, development process, references, and enhancements. 
 
 ## (1) 程式的功能 Features
 
