@@ -84,16 +84,19 @@ The development of 4knives followed these steps:
 
 1.  ChatGPT - Assisted with documentation and architectural structuring of the project.
 
-## (6) 未來可增強的內容 Enhancements and Contributions
+## (6) 未來可增強的內容 Future Enhancements 
 
 Due to the lack of time and ability, this is a really rough game. The following modifications and enhancements are welcomed to be added to the project in the future:
 
 ### 視覺化
-如提供的截圖檔案所示，也可以進行更多的美化。
+- 如提供的截圖檔案所示，也可以進行更多的美化。
+
+### 自由下注
+- 可以自己選擇下注尺寸
 
 ### 電腦玩家性格差異化
-1.可以輸入名字(例如高中同學)，並依據對他們的了解設定不同的下注策略(例如激進型、平衡型、保守型等)
-2.隨著輸贏，到某個程度時可以讓電腦玩家"上頭"，做出更不理智的行為
-3.可自由選擇要與幾位這幾種性格的玩家對戰
+1. 可以輸入名字(例如高中同學)，並依據對他們的了解設定不同的下注策略(例如激進型、平衡型、保守型等)。
+2. 隨著輸贏，到某個程度時可以讓電腦玩家"上頭"，做出更不理智的行為。
+3. 可自由選擇要與幾位這幾種性格的玩家對戰。
 
 We encourage further modifications and look forward to community contributions to improve 4knives further.
